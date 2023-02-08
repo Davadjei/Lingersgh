@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm ['David Adjei'](https://www.linkedin.com/in/david-adjei-510257110/) 
+
+I am pure mathematician, currently interested in **Topological Data Analysis **. I am strong advocate for the application of mathematical concept to the real world. 
 
 <!--
 **Lingersgh/Lingersgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
